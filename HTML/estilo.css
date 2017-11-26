@@ -1,0 +1,119 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.bg{
+	background: #c1c1c1;
+	padding: 120px;
+}
+.pg{
+	background: white;
+	margin-bottom: 40px;
+	padding: 50px;
+	font-family: Trebuchet MS, sans-serif;
+	overflow: auto
+}
+.bar{
+	size: 100%;
+	background: #3CB371;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 5px;
+	padding-left: 15px;
+	border-bottom: 1px solid grey;
+	font-family: Tw Cen MT, sans-serif;
+	font-size: 40px;
+	overflow: auto
+}
+.txt{
+	position: absolute;
+	top: 30px;
+	font-weight: bold;
+}
+.menu{
+	font-size: 20px;
+	float: right;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 35px;
+	padding-right: 40px
+				
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+	font-family: Tw Cen MT, sans-serif;
+}
+a:link{
+	color: black
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	background: #007c5f;
+	color: white
+}
+a:active{
+	background: #000000;
+	color: white;
+}
+.imagem{
+	float: left;
+	margin-right: 50px;
+	border: 3px solid #3CB371;
+}
+
+.title{
+	margin-bottom: 10px;
+}
+
+.highlight{
+	color: white;
+}
+a.dblock{
+	margin: 10px;
+	font-size: 50px;
+	padding: 10px;
+	color: white;
+}
+
+#mat{
+	background: #FFA500;
+}
+#qui{
+	background: #1E90FF;
+}
+#fis{
+	background: #6B8E23;
+}
+#bio{
+	background: #2E8B57;
+}
+#his{
+	background: #8B4513;
+}
+#geo{
+	background: #FF4500;
+}
+#fil{
+	background: #CD853F;
+}
+#soc{
+	background: #2F4F4F;
+}
+#por{
+	background: #00008B;
+}
+#ing{
+	background: #B22222;
+}
+#art{
+	background: #FF1493;
+}
+#edf{
+	background: #4B0082;
+}
